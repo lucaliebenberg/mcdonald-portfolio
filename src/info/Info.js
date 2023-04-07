@@ -8,7 +8,7 @@ export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 // export let colors = ["rgb(0,255,0)", "rgb(0,225,255)"];
 
 export const info = {
-  firstName: "macdonald",
+  firstName: "Macdonald",
   lastName: "musimwa",
   initials: "MM", // the example uses first and last, but feel free to use three or more if you like.
   position: "a Software Developer",
